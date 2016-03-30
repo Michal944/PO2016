@@ -34,6 +34,7 @@ TP-8
 9. Marcin FOrtuna, 212482, fortunaa,Cpp
 10. Sebastian Ławniczak, 204068, slawniczak, C++/Java, Projekt A
 11.Michal Halucha 204061, neonek991
+12. Michal Kosik 212449, Michal944, Projekt A
 
 TN-15
 1.Milczarek Brayan 212519, C++, github: brymil
